@@ -13,8 +13,8 @@
 - Hash map for O(1) lookups
 - Counting patterns
 
-| # | Problem | Difficulty | Pattern | LeetCode | Status # |
-|---|---------|------------|---------|------------|--------|
+| # | Problem | Difficulty | Pattern | LeetCode | Status |
+|---|---------|------------|---------|------------|------|
 | 1 | Two Sum | Easy | Hash Map | 1 |
 | 2 | Contains Duplicate | Easy | Hash Set | 217 |
 | 3 | Valid Anagram | Easy | Hash Map/Sorting | 242 |
